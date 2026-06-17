@@ -62,11 +62,3 @@ The dashboard helps users understand EV market trends through key performance in
 - Tableau Visualization
 
 ---
-
-
-
-
-
-LinkedIn: https://www.linkedin.com/in/your-profile
-
-GitHub: https://github.com/your-username
